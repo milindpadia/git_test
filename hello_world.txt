@@ -1,0 +1,1 @@
+Hello there, using Git for the first time.
